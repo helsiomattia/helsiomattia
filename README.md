@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Helsio Mattia and here i'll show you some infos about me and my carrer at technology field! 👋
 
 <!--
 **helsiomattia/helsiomattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
