@@ -1,38 +1,58 @@
 # 👋 Hi, I'm Helsio Mattia
 
-💼 Salesforce Consultant | CRM Specialist | Automation & Architecture Enthusiast  
-📍 Brazil | Open to global opportunities  
+💼 Salesforce Consultant | CRM Specialist | Future Solution Architect  
+🌎 Brazil | Open to Remote & International Opportunities  
 
 ---
 
 ## 🚀 About Me
 
-I’m a Salesforce professional with solid experience in **Sales Cloud and Service Cloud**, focused on designing scalable solutions, automations, and improving customer experience through CRM.
+I’m a Salesforce professional with strong experience in designing **scalable CRM solutions**, automations, and complex service flows.
 
-Over the years, I’ve worked with:
-- Complex **Flows and Process Automation**
-- **Messaging & Omnichannel (WhatsApp, Bots, Live Chat)**
-- Advanced **data modeling and business logic implementation**
-- Performance optimization and troubleshooting (SOQL limits, flow refactoring, etc.)
+My expertise lies in transforming business needs into **robust, maintainable, and high-performance Salesforce architectures**, especially in environments involving:
 
-I combine **technical and functional skills** to bridge the gap between business needs and scalable system architecture.
+- High-volume customer interactions  
+- Omnichannel support (WhatsApp, Bots, Live Chat)  
+- Complex automation layers (Flows + Apex)  
+- Multi-agent and queue-based scenarios  
+
+I bridge the gap between **business and technology**, ensuring solutions are not only functional — but scalable and future-proof.
 
 ---
 
-## 🧠 What I Do Best
+## 🧠 Core Expertise
 
-- ⚙️ Design and optimize **Salesforce Flows & Automations**
-- 🧩 Build solutions for **MessagingSession & ConversationParticipant logic**
-- 📊 Improve **customer journey and operational efficiency**
-- 🔍 Debug complex issues involving **timing, ownership, and multi-agent scenarios**
-- 🏗️ Support architectural decisions for scalable CRM environments
+- ⚙️ Advanced **Salesforce Flow Design & Optimization**
+- 🧩 Deep knowledge of **MessagingSession & ConversationParticipant**
+- 🏗️ CRM **Solution Design & Data Modeling**
+- 🔍 Debugging complex automation (timing, ownership, concurrency)
+- 🚀 Performance tuning (SOQL limits, flow efficiency, recursion control)
+- 🔄 Process automation & business rule implementation
+
+---
+
+## 🏛️ Architecture Mindset
+
+I approach every solution thinking about:
+
+- 📈 **Scalability** → Will this work with 10x more volume?
+- 🔁 **Maintainability** → Can this be easily evolved?
+- ⚡ **Performance** → Is this optimized for platform limits?
+- 🧩 **Separation of concerns** → Flow vs Apex vs Data layer
+- 🔐 **Reliability** → Edge cases, concurrency, fallback strategies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Salesforce & CRM
+### Salesforce Ecosystem
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+- Sales Cloud  
+- Service Cloud  
+- Flows (Advanced)  
+- Apex (Learning & Applying)  
+- Omnichannel & Messaging  
 
 ### Backend & Database
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -43,21 +63,58 @@ I combine **technical and functional skills** to bridge the gap between business
 
 ---
 
-## 📌 Current Focus
+## 📂 Portfolio Highlights (Real Problem Solving)
 
-- 📚 Deepening knowledge in **Apex & Salesforce Architecture**
-- 🤖 Studying **AI applied to CRM (Salesforce AI & automation)**
-- 🧱 Evolving towards **Solution Architect role**
+### 🔹 Messaging Automation & Time Tracking
+Designed and refactored complex flows to correctly calculate:
+- Queue time  
+- First agent response  
+- Agent leave time  
+
+Handled scenarios like:
+- Bot → Agent → Bot  
+- Multiple agent transfers  
+- Sessions without evaluation bot  
+
+> Focus: accuracy, consistency, and real-world edge cases
+
+---
+
+### 🔹 Queue-Based Case Notification System
+Built a scalable solution to:
+- Identify queue members dynamically  
+- Send automated notifications  
+- Handle both users and groups  
+
+> Focus: dynamic ownership handling and maintainability
+
+---
+
+### 🔹 Flow Refactoring & Performance Optimization
+- Reduced SOQL limit issues  
+- Eliminated recursive executions  
+- Improved flow readability and governance  
+
+> Focus: platform limits and scalability
 
 ---
 
 ## 📈 Career Highlights
 
-- ✔️ 3+ years working with Salesforce ecosystem  
-- ✔️ Certified: **Salesforce Administrator & App Builder**  
-- ✔️ Experience with **high-complexity flows and automation debugging**  
-- ✔️ Acting in **financial services environment (Efí Bank)**  
-- ✔️ Strong background in **CRM, customer support flows, and integrations**
+- ✔️ 3+ years in Salesforce ecosystem  
+- ✔️ Salesforce Certified: Administrator & App Builder  
+- ✔️ Experience in **financial services (Efí Bank)**  
+- ✔️ Strong background in **CRM, automation and customer support flows**  
+- ✔️ سابق experience as CRM Analyst and Systems Consultant  
+
+---
+
+## 🎯 Current Goals
+
+- 🧱 Evolving to **Salesforce Solution Architect**
+- 💻 Strengthening **Apex & integration patterns**
+- 🤖 Exploring **AI applied to CRM**
+- 🌎 Working on **international projects**
 
 ---
 
@@ -67,12 +124,14 @@ I combine **technical and functional skills** to bridge the gap between business
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Personal Note
 
-I enjoy solving complex system behaviors — especially when multiple automations, agents, and edge cases are involved. That’s where the real challenge (and fun) begins.
+I enjoy solving complex system behaviors — especially when multiple automations, agents, and edge cases are involved.
+
+That’s where good architecture makes all the difference.
 
 ---
 
 <!--
-💡 This README is a living document — always evolving as I grow in my career.
+🚀 This profile is continuously evolving towards Solution Architect level.
 -->
